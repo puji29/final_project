@@ -1,4 +1,4 @@
-#!/home/nomi/Documents/myskill/Backend/flask_fundamental/final-project/.venv/bin/python3
+#!/home/nomi/Documents/mydata/data/myskill/Backend/flask_fundamental/final-project/.venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
